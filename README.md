@@ -14,4 +14,5 @@ I'm [Billy](https://billybui.io/) a Web Developer. I enjoy creating web applicat
 
 ### Connect
 
-<img height="32" width="32" src="./img/linkedin.svg"></img>
+<a href="https://www.billybui.io/"><img height="32" width="32" src="./img/globe.svg" alt="Personal Profile"></img></a>
+<a href="https://www.linkedin.com/in/billybui/"><img height="32" width="32" src="./img/linkedin.svg" alt="Linked in"></img></a>
